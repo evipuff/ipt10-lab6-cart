@@ -1,0 +1,9 @@
+Order Code: Fg4Vzsbz
+Date and Time Ordered: 2024-09-10 13:49:49
+
+Order Items:
+Product ID: 3
+Product Name: One Dozen Eggs
+Price: 200 PHP
+
+Total Price: 200 PHP
